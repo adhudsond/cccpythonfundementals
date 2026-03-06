@@ -1,0 +1,19 @@
+# File: .gitignore
+# Files and folders Git should ignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+# Virtual environment
+venv/
+env/
+# Data files (too large for Git)
+data/*.csv
+*.db
+# IDE files
+.vscode/
+.idea/
+# Environment variables
+.env
+# Keeps repository clean!

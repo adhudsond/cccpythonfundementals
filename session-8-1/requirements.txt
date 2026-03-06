@@ -1,0 +1,11 @@
+# File: requirements.txt
+# List all dependencies (one per line)
+numpy==1.24.0
+pandas==2.0.0
+matplotlib==3.7.0
+# To install all at once:
+# pip install -r requirements.txt
+# To generate from current environment:
+# pip freeze > requirements.txt
+# Makes project reproducible!
+# Others can install exact versions
